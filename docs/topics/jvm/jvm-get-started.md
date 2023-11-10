@@ -49,7 +49,6 @@ To get started, first download and install the latest version of [IntelliJ IDEA]
 1. Open the `Main.kt` file in `src/main/kotlin`.  
    The `src` directory contains Kotlin source files and resources. The `Main.kt` file contains sample code that will print 
    `Hello World!`.
-
    ![Main.kt with main fun](jvm-main-kt-initial.png){width=700}
 
 2. Modify the code so that it requests your name and says `Hello` to you alone, and not to the whole world:
